@@ -14,7 +14,7 @@ This project aims to provide accurate predictions about students' future perform
 
 
 
-## Benefits of a Comprehensive Student Success Prediction Project:
+## Benefits:
 ### For Students:
 - Proactive Learning: Gain insights into strengths and weaknesses to tailor study habits and learning strategies.
 - Increased Motivation: Personalized predictions can encourage students by highlighting potential for success.
